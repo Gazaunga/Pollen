@@ -1,1 +1,1 @@
-# Scribble
+* Scribble
